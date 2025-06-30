@@ -1,3 +1,13 @@
+📘 Tổng hợp: Chữ ký số ECDSA & Bài tập kiểm chứng
+🧠 1. Mục đích học
+Bạn muốn hiểu và kiểm chứng:
+
+Chữ ký số là gì và tại sao nó đảm bảo tính xác thực nội dung?
+
+Làm sao để biết lá thư (dữ liệu) là do chính ông già Noel ký, không phải do bố mẹ giả mạo?
+
+Sự khác biệt giữa nội dung đúng + chữ ký đúng và nội dung giả + chữ ký đúng (sai ngữ cảnh)
+
 # 🎅 ECDSA Signature Verification – Lá Thư Ông Già Noel
 
 ## 📌 Mục tiêu
@@ -13,4 +23,4 @@ Thông qua mã nguồn Python đơn giản, bạn sẽ:
 
 ---
 
-## 📁 Cấu trúc thư mục
+
